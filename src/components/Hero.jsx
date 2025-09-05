@@ -1,7 +1,7 @@
 import Particles from "react-tsparticles";
 import { loadFull } from "tsparticles";
 import { useCallback } from "react";
-import resume from "../assets/Muhammad_Hussain_Resume_Recruiter.pdf";
+import resume from "../assets/Muhammad_Hussain.pdf";
 
 const Hero = () => {
   const particlesInit = useCallback(async (engine) => {
